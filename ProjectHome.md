@@ -1,0 +1,1 @@
+this software deals with maintaining registration details of users, including all the details along with events he is participating in. you can print the details tickets, get sorted according to various needs like event wise list, college wise list, it is written in foxpro.
